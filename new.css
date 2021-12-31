@@ -1,0 +1,187 @@
+*{margin: 0;
+padding: 0;
+box-sizing: border-box;}
+body{background-color:rgb(215, 235, 248);}
+
+
+.container{width: 1000px;
+    height: 1000px;
+    margin: 0 auto;
+    background-color:rgb(215, 235, 248);
+    position: relative;
+    
+}
+
+.LOGO{color: rgb(8, 5, 2);
+font-size: 50px;
+
+position: relative;
+left: 8% ;}
+
+.nav-bar{position: absolute;
+    top: 2%;
+    left: 45%;
+   margin:10px;}
+
+
+    .nav-bar a{color: black;
+text-decoration: none;
+
+margin: 5px;
+padding: 8px;
+border: 2px solid transparent ;
+
+
+}
+header{width: 1000px;
+height: 100px;
+box-shadow: 2px 8px 5px black; 
+background-color:rgb(247, 247, 247)}
+
+.main{width: 1000px;
+height: 450px;
+
+background-color: black;
+color: WHITE;
+box-shadow: 2px 8px 5px black;
+box-sizing: border-box;
+}
+.main p{width: 250px;
+margin: 10px;
+padding: 10px;}
+.title{padding-top: 50px;
+   
+    margin-left:35px ;
+}
+h3{padding: 35px;
+position: relative;
+left: 2%;
+
+}
+.nav-bar a:hover{background-color:black;
+color:rgb(247, 247, 247);
+transition: 0.4s ease;}
+
+button{width: 150px;
+    color: white;
+background-color: rgb(0, 107, 247);
+font-size: 15px;
+padding: 10px;
+text-align: center;
+margin: auto;}
+.butoon{text-align: center;
+padding-top: 10px;
+margin: 5px;}
+
+
+
+button:hover{background-color: rgb(247, 35, 201);
+    color:rgb(247, 247, 247);
+    transition: 0.4s ease;
+box-shadow:1px 2px 5px rgb(247, 0, 247) ;}
+.mains{width: 1000px;
+    height: auto;
+    
+    background-color:white;
+    color:black; 
+    box-shadow: 2px 3px 5px black;
+    box-sizing: border-box;}
+    .titles h1{text-align: center;
+
+    }
+.titles h4{color: rgb(97, 97, 97);
+text-align: center;
+padding:10px;
+}
+.item h1{font-size: 30px;
+padding: 10px;}
+.flex{width:auto ;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(255, 255, 255);
+    height: auto;
+    
+   
+
+
+
+}
+.item {width: 300px;
+    height: 250px;
+    margin: 0 auto;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+   flex-wrap: wrap;
+    
+    
+    border:1px solid black;
+    padding: 15px;
+    margin: 30px;
+    box-shadow: 1px 2px 6px black;
+    color: white;
+    background-color: black;
+     
+   
+    
+  
+    
+
+}
+
+
+.mains{background:rgb(255, 255, 255);
+   
+
+    
+}
+.item:hover{background-color: rgb(255, 0, 200);
+    color:rgb(247, 247, 247);
+    transition: 0.2s ease;
+box-shadow:1px 2px 5px black ;}
+
+
+
+
+
+.footer{width: 1000px;
+height: auto;
+background-color: black;
+box-shadow: 1px 2px 6px black;
+color: white;
+height: 100px;}
+.logotwo{font-size: 40px;
+    padding: 10px;
+text-align: center;}
+footer{text-align: center;
+padding: 10px;}
+
+
+
+
+
+
+            
+        
+    
+     
+       
+
+    
+ 
+
+
+
+
+
+
+    
+
+
+
+
+
+    
+
